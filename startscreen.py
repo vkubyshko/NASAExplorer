@@ -1,0 +1,40 @@
+def initjoints(self):
+        self.prev_righthand_y = 0
+        self.prev_lefthand_y = 0
+        self.cur_righthand_x = 0
+        self.cur_righthand_y = 0
+        self.cur_lefthand_x = 0
+        self.cur_lefthand_y = 0
+        self.righttip_x=0
+        self.righttip_y=0
+        self.lefttip_x = 0
+        self.lefttip_y = 0
+        self.hand_x=0
+        self.hand_y=0
+        self.rightfist = False
+        self.leftfist = False
+        self.rightshoulder_y = 0
+        self.leftshoulder_y = 0
+        self.flap = 0
+
+def initplanetlocation(self):
+        self.mars_x=170
+        self.mars_y=160
+        self.mars_r=70
+        self.earth_x=320
+        self.earth_y=340
+        self.earth_r=70
+        self.jupiter_x=550
+        self.jupiter_y=340
+        self.jupiter_r=80
+        self.saturn_x=640
+        self.saturn_y=80
+        self.saturn_r=80
+        self.merc_x=100
+        self.merc_y=470
+        self.venus_x=60
+        self.venus_y=350
+        self.nept_x=770
+        self.nept_y=40
+        self.uran_x=780
+        self.uran_y=200

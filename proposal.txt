@@ -1,0 +1,30 @@
+An adventure through space where you can visit different places and play games.
+Tentatively, can visit the moon, one of Jupiter's moons, Saturn's rings, and Venus
+or Mars.
+- Jupiter's moon: water rafting through liquid cyanide, tilting your body from 
+side to side and jumping to earn points. Must finish the course within a time limit
+and without running out of energy. Then you earn a star and have Jupiter complete.
+- Moon: playing darts with gravity effects. Again can win/lose based on how many 
+points you get for each of your throws. Must add up to at least some minimum for
+you to earn the star.
+- Saturn's rings: inspired by Rainbow Road, drive a rover along the rings as
+little meteors come flying your way that you must avoid and tilt side to side again.
+- Mars/Venus: if I have time, bouncy obstacle course where you can jump and grab
+onto ledges. Moving parts can hit you and lose energy
+
+I will go about this location by location so that I have one working game done before
+the next so that I know it works and don't have to worry about not being able to finish 
+all of them.
+
+I have to play the games inside the Kinect visual studios. I will have an instruction
+page and then it will take the user to the game on that planet. Like in tkinter,
+score/energy will be on the screen always while the visuals change.
+
+The trickiest part is connecting Kinect and Tkinter to work together. I believe I
+must code in Visual Studios to continuously intake data, and if this is true,
+then the second trickiest part is learning the lingo of the kinect code.
+
+I believe only kinect, pygame by extension, and PIL by extension (may not even be
+used).
+
+Competitive Analysis:
